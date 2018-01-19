@@ -1,4 +1,4 @@
-FROM ubuntu:xenial
+FROM ubuntu:17.10
 MAINTAINER 1m38
 
 # install texlive-lang-cjk
